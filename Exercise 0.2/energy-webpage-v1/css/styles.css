@@ -15,7 +15,7 @@
 }
 
 .nav-link:hover {
-  color: #FFD580 !important; /* Lighter orange on hover */
+  color: #FFD580 !important; 
 }
 
 /* Footer */
@@ -29,7 +29,7 @@ footer.bg-orange {
   min-height: 100vh;
 }
 
-/* Optional: body background */
+/* body background */
 body {
-  background-color: #FFF7F0; /* very light orange tint */
+  background-color: #FFF7F0; 
 }
