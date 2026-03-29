@@ -1,0 +1,35 @@
+/* Navbar */
+.navbar-orange {
+  background-color: #FFA94D; /* Light orange */
+}
+
+.nav-link {
+  color: #ffffff !important;
+  transition: color 0.3s;
+  margin-left: 15px;
+}
+
+.nav-link.active {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.nav-link:hover {
+  color: #FFD580 !important; /* Lighter orange on hover */
+}
+
+/* Footer */
+footer.bg-orange {
+  background-color: #FFA94D;
+  color: #ffffff;
+}
+
+/* Make content fill screen */
+.min-vh-100 {
+  min-height: 100vh;
+}
+
+/* Optional: body background */
+body {
+  background-color: #FFF7F0; /* very light orange tint */
+}
