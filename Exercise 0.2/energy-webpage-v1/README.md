@@ -1,2 +1,2 @@
-# For Exercise 0.2
-- GenAI is used to correct the code structure and improved the content I draft 
+# For Exercise 0.2 - Reflection
+This project was developed with the help of ChatGPT as a coding reference, particularly for implementing Bootstrap 5 and basic JavaScript features. It assisted with the initial structure of the responsive navbar and the footer year script, while I handled the overall site structure and design decisions. I also integrated my own assets and ensured consistent navigation across all pages. Additionally, improved the content I drafted.  

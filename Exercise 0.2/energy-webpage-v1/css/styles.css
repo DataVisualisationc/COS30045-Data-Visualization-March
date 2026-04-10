@@ -1,12 +1,17 @@
+body {
+  background-color: #ebfde3; 
+  font-family: 'Quicksand', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 /* Navbar */
-.navbar-orange {
-  background-color: #FFA94D; /* Light orange */
+.navbar-color {
+  background-color: #B7C9B0; 
 }
 
 .nav-link {
-  color: #ffffff !important;
+  color: #000000;
   transition: color 0.3s;
-  margin-left: 15px;
+  margin-left: 15px; 
 }
 
 .nav-link.active {
@@ -15,21 +20,11 @@
 }
 
 .nav-link:hover {
-  color: #FFD580 !important; /* Lighter orange on hover */
+  color: #edffe7 !important;
 }
 
 /* Footer */
-footer.bg-orange {
-  background-color: #FFA94D;
+footer.bg-color {
+  background-color: #B7C9B0;
   color: #ffffff;
-}
-
-/* Make content fill screen */
-.min-vh-100 {
-  min-height: 100vh;
-}
-
-/* Optional: body background */
-body {
-  background-color: #FFF7F0; /* very light orange tint */
 }
