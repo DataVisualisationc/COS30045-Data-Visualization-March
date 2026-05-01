@@ -25,6 +25,7 @@ Link of dataset: https://data.gov.au/data/dataset/energy-rating-for-household-ap
 
 ### Data Processing
 The dataset was processed using **KNIME** to transform raw data into the insights presented in the storyboard. The following steps were taken for each research question:
+
 **Question 1:**
 - CSV Reader node: Imported the raw Australian Government TV Energy Consumption dataset. 
 - Column & Row Filter node: Used to filter out unnecessary data attributes and focus only on relevant variables like screen technology, size, and power usage.  
