@@ -1,0 +1,53 @@
+body {
+  background-color: #ebfde3; 
+  font-family: 'Quicksand', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+/* Navbar */
+.navbar-color {
+  background-color: #B7C9B0; 
+}
+
+.nav-link {
+  color: #000000;
+  transition: color 0.3s;
+  margin-left: 15px; 
+}
+
+.nav-link.active {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.nav-link:hover {
+  color: #edffe7 !important;
+}
+
+/* Footer */
+footer.bg-color {
+  background-color: #B7C9B0;
+  color: #ffffff;
+}
+
+.chart-img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.step-label {
+  font-weight: bold;
+  color: #28313a;
+  display: block;
+  margin-top: 10px;
+  font-size: larger;
+}
+
+.question-section {
+  background-color: #fff;
+  border-radius: 12px;
+  padding: 30px;
+  margin-bottom: 40px;
+  box-shadow: 0 2px 15px rgba(0,0,0,0.05);
+}
